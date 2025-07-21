@@ -7,4 +7,7 @@ class EvenOrOdd {
         System.out.println(" Entered number is " +( (num%2==0)?"even":"odd" ));
     }
 
+
 }
+
+// modified by rajath
