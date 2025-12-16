@@ -1,0 +1,4 @@
+org\geeksforgeeks\spring_workshop\SpringWorkshopApplication.class
+org\geeksforgeeks\spring_workshop\controller\UserController.class
+org\geeksforgeeks\spring_workshop\entity\User.class
+org\geeksforgeeks\spring_workshop\repository\UserRepository.class
